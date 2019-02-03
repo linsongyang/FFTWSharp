@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>FFTWSharp</id>
+    <version>1.0</version>
+    <title>FFTW cs wrapper</title>
+    <authors>Andras Fuchs;Lin Song Yang</authors>
+    <owners>GitHub</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>FFTW cs wrapper</description>
+    <releaseNotes>see details fftw</releaseNotes>
+    <copyright>GPL</copyright>
+    <tags>FFTW CSharp</tags>
+  </metadata>
+  <files>
+    <file src="..\FFTW\**\*" target="lib\net46" />
+    <file src="..\Bin\FFTWSharp\fftwlib.*" target="lib\net46" />
+  </files>
+</package>

@@ -1,0 +1,6 @@
+source "C:\Program Files (x86)\Microsoft SDKs\NuGetPackages\"
+source http://localhost/repo/nuget
+source https://api.nuget.org/v3/index.json
+
+nuget NuGet.CommandLine
+nuget Deployment

@@ -1,0 +1,5 @@
+NUGET
+  remote: http://localhost/repo/nuget
+    Deployment (1.0.0)
+  remote: https://api.nuget.org/v3/index.json
+    NuGet.CommandLine (4.9.2)
